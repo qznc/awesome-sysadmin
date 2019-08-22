@@ -642,9 +642,11 @@ Comparison of NoSQL servers: http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-v
 *Web servers.*
 
 * [Algernon](http://algernon.roboticoverlords.org/) - Web/application server that supports Lua, live-reload, templates, Sass and HTTP/2.
+* [althttpd](https://sqlite.org/docsrc/doc/trunk/misc/althttpd.md) - Lightweight, simple web server for static content.
 * [Apache](http://httpd.apache.org/) - Most popular web server.
 * [Caddy](https://caddyserver.com/) - Lightweight, general-purpose web server supporting HTTP/2, automatic TLS and easy configuration. Written in Go.
 * [Cherokee](http://cherokee-project.com/) - Lightweight, high-performance web server/reverse proxy.
+* [darkhttpd](https://unix4lyfe.org/darkhttpd/) - Lightweight, simple web server for static content.
 * [Hiawatha](https://www.hiawatha-webserver.org/) - Prioritises security, simplicity and performance.
 * [Lighttpd](http://www.lighttpd.net/) - Web server more optimized for speed-critical environments.
 * [Nginx](http://nginx.org/) - Reverse proxy, load balancer, HTTP cache, and web server.
